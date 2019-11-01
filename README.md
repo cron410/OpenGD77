@@ -8,6 +8,7 @@ This is to make sure that we use our development time in a coordinated way and m
 
 Your contribution is welcome in all areas. But please understand that in the current phase our priority is on testing, bug reports and bug fixes. Ideas for changes and/or features will get recorded but have to wait for now.
 If you want to contribute coding please get in touch first, so we can coordinate the work. To keep integration efforts manageable we need to follow a development process.
+#### From June 2019. Roger Clark VK3KYY continues to develop the firmware in his own fork of this repository. https://github.com/rogerclarkmelbourne including support for Hotspot mode and Tier 2.
 
 # Road map
 - Tests / fix bugs.
